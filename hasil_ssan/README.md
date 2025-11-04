@@ -1,0 +1,6 @@
+![Tampilan Create/POST](POSTucp.png)
+![Tampilan hasil POST/tambah](HasilPostUcp.png)
+![Tampilan Update/PUT](PUTucp.png)
+![Tampilan hasil Update/PUT](HasilPutUcp.png)
+![Tampilan Delete/DELETE](DELETEucp.png)
+![Tampilan hasil setelah DELETE](HasilDeleteUcp.png)
